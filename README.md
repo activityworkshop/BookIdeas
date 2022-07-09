@@ -34,3 +34,6 @@ Do you like the sound of those topics and the scope?  Anything you'd like to see
 
 ## Alpine Pass Route
 This idea of writing an ebook about the Swiss hiking route (see https://activityworkshop.net/hiking/alpinepassroute ) has been thrown around for years but the response has been very low, and alternatives exist (on paper) already.  So I guess that this won't work, but I'll raise it again anyway.  Interested?  Or alternative ideas?  Please raise an [issue](https://github.com/activityworkshop/BookIdeas/Issues)!
+
+## Alpenpanorama Weg
+As with the Alpine Pass Route mentioned above, this could be another opportunity to make a hiking guide for Switzerland, for the long-distance route number 3 ( https://www.schweizmobil.ch/en/wanderland/route-03.html ).  The main difference is that I haven't hiked all of this route yet, so it would be more of a longer-term project to plan the hikes, take the photos, research the route and write all the descriptions from scratch.  Again there is an existing guidebook for sale (from AT-Verlag), but they currently have no plans to translate that guide into English.  Please raise an [issue](https://github.com/activityworkshop/BookIdeas/Issues) if you're interested.
