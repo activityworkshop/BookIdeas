@@ -37,3 +37,11 @@ This idea of writing an ebook about the Swiss hiking route (see https://activity
 
 ## Alpenpanorama Weg
 As with the Alpine Pass Route mentioned above, this could be another opportunity to make a hiking guide for Switzerland, for the long-distance route number 3 ( https://www.schweizmobil.ch/en/wanderland/route-03.html ).  The main difference is that I haven't hiked all of this route yet, so it would be more of a longer-term project to plan the hikes, take the photos, research the route and write all the descriptions from scratch.  Again there is an existing guidebook for sale (from AT-Verlag), but they currently have no plans to translate that guide into English.  Please raise an [issue](https://github.com/activityworkshop/BookIdeas/Issues) if you're interested.
+
+## Computer Basics
+
+I'm not sure whether the target audience for this is pre-teens who only know tablets and telephones but are not yet familiar with PCs, or whether it's grandparents who maybe already have a PC but aren't really comfortable with it.  Yes, there are lots of "Grandparents' guide to the PC" books already but for me they're all too specific.  I don't like the idea of a "how to use a Windows PC" guide or a "how to use an Apple PC" guide.  I'd prefer to see the __concepts__ of a PC taught with examples from both.  I don't think "how to use Microsoft Word" is a good way to start, I'd prefer a "how to use a word processor" with examples from Word, Libreoffice and so on.  Transferable skills.
+
+Possible topics could cover what is a file, how can I find the one I'm looking for, are they on my PC or somewhere in the internet?  What is a spreadsheet, what program do I need if I want to make a party invitation?  What does a browser do (not just what words and buttons do Edge and Safari use)?  How can I make backups?  How do I use email safely?  How do I choose which search engine to use?  In short, how to get to grips with the basics of a PC, no matter which kind of PC it is.  Stressing the commonalities between Microsoft, Apple and Linux systems (maybe even also ChromeOS?) so you can use any one.  Stressing the common concepts of office suites, browsers, file managers etc so you can use any one.
+
+Sounds interesting?  Then please raise an [issue](https://github.com/activityworkshop/BookIdeas/Issues)!
